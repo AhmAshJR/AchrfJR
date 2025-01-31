@@ -41,7 +41,7 @@ I am a passionate **Software Quality Engineer** with a strong focus on **automat
 - Created detailed test scripts following BDD principles.
 - Automated browser interactions with Playwright for UI validation.
 
-### 🔹 **CodeSquare**  
+### 🔹 [CodeSquare](https://github.com/AchrfJR/code-square-js)  
 *A Hacker News-style platform for developers to share and discuss coding articles.*
 - Implemented Jest for unit and integration testing.
 - Automated UI testing using Playwright.
