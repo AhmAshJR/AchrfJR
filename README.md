@@ -21,27 +21,27 @@ I am a passionate **Software Quality Engineer** with a strong focus on **automat
 
 ## 📌 Projects
 
-### 🔹 [Echo-Social](https://github.com/AchrfJR/echo-social)  
+### 🔹 [Echo-Social](https://github.com/AhmAshJR/echo-social)  
 *A social networking platform with enhanced security testing.*
 - Conducted security testing against XSS vulnerabilities.
 - Automated user interaction tests with Selenium.
 
-### 🔹 [Playwright API Test](https://github.com/AchrfJR/playwright-api-test)  
+### 🔹 [Playwright API Test](https://github.com/AhmAshJR/playwright-api-test)  
 *A project focused on API testing using Playwright.*
 - Designed and executed API tests with Playwright.
 - Ensured endpoint functionality and response validation.
 
-### 🔹 [BDD Selenium Automation Test](https://github.com/AchrfJR/BDD-Selenium-Automation-Test)  
+### 🔹 [BDD Selenium Automation Test](https://github.com/AhmAshJR/BDD-Selenium-Automation-Test)  
 *A Behavior-Driven Development (BDD) framework for Selenium automation testing.*
 - Developed and maintained automated test cases using Selenium and Cucumber.
 - Implemented structured test scenarios for web applications.
 
-### 🔹 [BDD Playwright Automation Test](https://github.com/AchrfJR/BDD-Playwright-Automation-Test)  
+### 🔹 [BDD Playwright Automation Test](https://github.com/AhmAshJR/BDD-Playwright-Automation-Test)  
 *A BDD-based automation testing framework utilizing Playwright.*
 - Created detailed test scripts following BDD principles.
 - Automated browser interactions with Playwright for UI validation.
 
-### 🔹 [CodeSquare](https://github.com/AchrfJR/code-square-js)  
+### 🔹 [CodeSquare](https://github.com/AhmAshJR/code-square-js)  
 *A Hacker News-style platform for developers to share and discuss coding articles.*
 - Implemented Jest for unit and integration testing.
 - Automated UI testing using Playwright.
@@ -57,7 +57,7 @@ I am a passionate **Software Quality Engineer** with a strong focus on **automat
 ---
 
 ## 📫 Connect with Me
-- **GitHub:** [achrfjr](https://github.com/achrfjr)  
+- **GitHub:** [AhmAshJR](https://github.com/AhmAshJR)  
 - **LinkedIn:** [https://www.linkedin.com/in/achrafjr/]  
 - **Email:** [ahmedachraf0x@gmail.com]  
 
